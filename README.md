@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kristoffer Lettegard</h1>
 <h3 align="center">A passionate frontend developer from Sweden based in Dublin.</h3>
 
-- 🌱 I’m currently learning **React.js**
-
 - 💬 Ask me about **Anything and I'll do my best to help!**
 
 - 📫 How to reach me **Kristoffer.lettegard@outlook.com**
